@@ -1,0 +1,6 @@
+platform=windows
+browserName=chrome
+env=local
+url=https://test.com
+tester1.login=login
+tester1.password=password

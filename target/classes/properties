@@ -1,0 +1,6 @@
+platform=windows
+browserName=chrome
+env=local
+url=https://z-price.com
+tester1.login=zlogin
+tester1.password=111111
